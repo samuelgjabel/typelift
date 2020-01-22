@@ -1,6 +1,6 @@
 {
   "name": "typelift",
-  "version": "0.0.11",
+  "version": "0.0.2",
   "description": "Javascript / Typescript type helper",
   "main": "src/index.js",
   "scripts": {
