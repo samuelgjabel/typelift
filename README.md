@@ -134,4 +134,4 @@ const userModel = model({
 
 1.cassandra-driver // for creating of uuid types/
 
-Working nicely with javascript coded with love in typescript.
+### Working nicely with javascript coded with love in typescript.
