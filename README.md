@@ -1,5 +1,7 @@
 # TypeLift
 
+#### Still Beta...
+
 Javascript / Typescript type definitions by generic functions.
 
 Most easy way how to create interfaces / enums / models for another purposes.
