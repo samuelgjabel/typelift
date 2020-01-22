@@ -1,0 +1,32 @@
+{
+  "name": "typelift",
+  "version": "0.0.1",
+  "description": "Javascript / Typescript type helper",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelgjabel/typelift.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "type",
+    "schema",
+    "json",
+    "helper",
+    "plugin",
+    "next"
+  ],
+  "author": "Samuel Gjabel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelgjabel/typelift/issues"
+  },
+  "homepage": "https://github.com/samuelgjabel/typelift#readme",
+  "dependencies": {
+    "cassandra-driver": "^4.4.0"
+  }
+}
