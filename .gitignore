@@ -1,0 +1,6 @@
+node_modules/
+dist/
+public/
+public/tmp/img/*.png
+public/users/img/*.png
+elasticsearch-7.3.0/
